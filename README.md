@@ -1,6 +1,6 @@
 # Arthur Fenili
 
-Olá, bem-vindo ao meu README!
+Olá, bem-vindo ao meu perfil!
 <br>
 Com 23 anos de idade, eterno aprendiz de Tecnologia e Programação, vindo do interior de SP à cidade grande para perseguir meu sonho de construir uma carreira sólida como Desenvolvedor.
 
