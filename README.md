@@ -29,7 +29,7 @@ Com 23 anos de idade, eterno aprendiz de Tecnologia e Programação, vindo do in
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=arthur-fenili&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-# Principais Projetos
+# Projetos Práticos
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=arthur-fenili&repo=MtgPodium&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/arthur-fenili/MtgPodium)
 
