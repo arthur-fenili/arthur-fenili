@@ -2,7 +2,7 @@
 
 Olá, bem-vindo ao meu perfil!
 <br>
-Com 23 anos de idade, eterno aprendiz de Tecnologia e Programação, vindo do interior de SP à cidade grande para perseguir meu sonho de construir uma carreira sólida como Desenvolvedor.
+Com 25 anos de idade, eterno aprendiz de Tecnologia e Programação, vindo do interior de SP à cidade grande para perseguir o sonho de construir uma carreira sólida como Desenvolvedor.
 
 # Conecte-se comigo 
 
@@ -31,6 +31,6 @@ Com 23 anos de idade, eterno aprendiz de Tecnologia e Programação, vindo do in
 
 # Projetos Práticos
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=arthur-fenili&repo=MtgPodium&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/arthur-fenili/MtgPodium)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=arthur-fenili&repo=EasyMail&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/arthur-fenili/EasyMail)
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=arthur-fenili&repo=gs-java&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/arthur-fenili/gs-java)
