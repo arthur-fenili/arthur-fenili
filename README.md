@@ -2,7 +2,7 @@
 
 Olá, bem-vindo ao meu perfil!
 <br>
-Com 25 anos de idade, eterno aprendiz de Tecnologia e Programação, vindo do interior de SP à cidade grande para perseguir o sonho de construir uma carreira sólida como Desenvolvedor.
+Com 25 anos de idade, eterno aprendiz de tecnologia e programação, vindo do interior de SP à cidade grande para perseguir o sonho de construir uma carreira sólida como desenvolvedor.
 
 # Conecte-se comigo 
 
