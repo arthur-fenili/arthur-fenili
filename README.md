@@ -26,6 +26,9 @@ Com 25 anos de idade, eterno aprendiz de tecnologia e programação, vindo do in
 
 # Projetos Práticos
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=arthur-fenili&repo=EasyMail&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/arthur-fenili/EasyMail)
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=arthur-fenili&repo=gs-java&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/arthur-fenili/gs-java)
+<a href="https://github.com/arthur-fenili/next-train-bff">
+      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=arthur-fenili&repo=next-train-bff&theme=react&bg_color=0D1117" alt="Next Train Bff"></a>
+<a href="https://github.com/arthur-fenili/EasyMail">
+      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=arthur-fenili&repo=EasyMail&theme=react&bg_color=0D1117" alt="Easy Mail"></a>
+<a href="https://github.com/arthur-fenili/reminder-app">
+      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=arthur-fenili&repo=reminder-app&theme=react&bg_color=0D1117" alt="Subscription Reminder App"></a>
